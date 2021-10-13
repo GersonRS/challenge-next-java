@@ -36,7 +36,7 @@ Para te ajudar nesse desafio, criei para você um modelo que você deve utilizar
 
 O template está disponível na seguinte url: **[Acessar Template](https://github.com/GersonRS/template-desafio-next-java)**
 
-**Dica**: Caso não saiba utilizar repositórios do Github como template, tem um guia em **[nosso FAQ](https://github.com/GersonRS/template-desafio-next-java).**
+**Dica**: Caso não saiba utilizar repositórios do Github como template, tem um guia em **[nosso FAQ](https://github.com/GersonRS/template-desafio-next-java/blob/main/README.md#guides).**
 
 Agora navegue até a pasta criada e abra no Visual Studio Code, lembre-se de executar maven para atualizar todas as dependências.
 
