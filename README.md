@@ -92,6 +92,8 @@ Essa é uma aplicação totalmente escalável, isso significa que além das espe
 
 Você pode implementar desde funcionalidades simples que não foram específicadas nos testes, como a finalização completa de um pedido, ou uma página que irá mostrar dados do pedido realizado.
 
+Faça um post no Linkedin ou Instagram e postar o código do Github é uma boa forma de demonstrar seus conhecimentos e esforços para evoluir na sua carreira para oportunidades futuras.
+
 Além disso, use sua criatividade para testar novas coisas, existem muitas possibilidades de aprendizado!
 
 ## :memo: Licença
