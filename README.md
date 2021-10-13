@@ -28,7 +28,7 @@
 
 Nesse desafio, você irá desenvolver uma API REST, que atende a um Restaurante. Agora você irá praticar o que você aprendeu até agora no modulo de java do NExT sobre Java e Spring Boot, para criar uma pequena API para pedidos de comida.
 
-Essa será uma API receberá requisições de um aplicativo movel, e exibirá e filtrará os pratos de comida cadastrados na API e permitirá a criação de novos pedidos.
+Essa será uma API receberá requisições de um aplicativo movel, e retornará e filtrará os pratos de comida cadastrados na API e permitirá a criação de novos pedidos.
 
 ## Template da aplicação
 
@@ -52,17 +52,19 @@ Ao se ter a base de dados, vocês deverão criar controllers e as suas rotas, on
 
 Agora que você já está com o template instalado e pronto para continuar, você deve verificar os arquivos da pasta `src` e completar o código para atingir os objetivos do projeto.
 
-- **`Listar os pratos de comida da sua API`**: Sua API deve ser capaz de exibir uma listagem, de uma parte de todos os pratos de comida que estão cadastrados na sua API.
+- **`Listar os pratos de comida da sua API`**: Sua API deve ser capaz de retornar uma listagem, de uma parte de todos os pratos de comida que estão cadastrados na sua API.
 
-- **`Listar as categorias da sua API`**: Sua API deve ser capaz de exibir uma listagem, de todas as categorias que estão cadastrados na sua API.
+- **`Cadastrar um prato de comida na sua API`**: Sua API deve ser capaz de cadastrar um novo produto na sua API.
+
+- **`Listar as categorias da sua API`**: Sua API deve ser capaz de retornar uma listagem, de todas as categorias que estão cadastrados na sua API.
 
 - **`Buscar pratos de comida ou categorias por id ou com filtros personalizados`**: Em sua API deverá ser capaz de fazer uma busca na API de acordo com o parametro enviado na sua requisição.
 
-- **`Listar os pedidos da sua API`**: Sua API deve ser capaz de exibir uma listagem, com as informações dos produtos pedidos, de todos os pedidos que estão cadastrados na sua API.
+- **`Listar os pedidos da sua API`**: Sua API deve ser capaz de retornar uma listagem, com as informações dos produtos pedidos, de todos os pedidos que estão cadastrados na sua API.
 
 **Dica**: Por se tratar de um desafio simples sem autenticação e de não possuir usuários, não será necessário cadastrar o campo `user_id`, considere que deve ser listados todos os pedidos da API como se fossem os seus pedidos.
 
-- **`Listar os pratos favoritos da sua API`**: Sua API deve ser capaz de exibir uma listagem, com os campos e as informações dos produtos favoritados, de todos os favoritos que estão cadastrados na sua API.
+- **`Listar os pratos favoritos da sua API`**: Sua API deve ser capaz de retornar uma listagem, com os campos e as informações dos produtos favoritados, de todos os favoritos que estão cadastrados na sua API.
 
 **Dica**: Por se tratar de desafio simples sem autenticação e de não possuir usuários, não será necessário cadastrar o campo `user_id`, considere que deve ser listados todos os favoritos da API como se fossem os seus favoritos.
 
