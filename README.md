@@ -34,9 +34,9 @@ Essa será uma API receberá requisições de um aplicativo movel, e retornará 
 
 Para te ajudar nesse desafio, criei para você um modelo que você deve utilizar como um template do Github.
 
-O template está disponível na seguinte url: **[Acessar Template](https://github.com/GersonRS/react-native-template-gersonrsantos-basic)**
+O template está disponível na seguinte url: **[Acessar Template](https://github.com/GersonRS/template-desafio-next-java)**
 
-**Dica**: Caso não saiba utilizar repositórios do Github como template, tem um guia em **[nosso FAQ](https://github.com/GersonRS/react-native-template-gersonrsantos-basic/blob/main/README.md#instala%C3%A7%C3%A3o).**
+**Dica**: Caso não saiba utilizar repositórios do Github como template, tem um guia em **[nosso FAQ](https://github.com/GersonRS/template-desafio-next-java).**
 
 Agora navegue até a pasta criada e abra no Visual Studio Code, lembre-se de executar maven para atualizar todas as dependências.
 
